@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+sdist/
+develop-eggs/
+*.manifest
+*.spec
+
+# Virtual environments
+venv/
+venv_linux/
+env/
+ENV/
+.venv/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 输出文件（发票提取结果）
+发票信息_*.xlsx
+发票信息_*.csv
+
+# 日志
+*.log
