@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# 虚拟环境
+venv/
+venv_linux/
+.venv/
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# Web 运行时目录
+uploads/
+outputs/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# 日志
+*.log
+
+# 系统
+.DS_Store
+Thumbs.db
