@@ -18,6 +18,9 @@ dist/
 uploads/
 outputs/
 
+# 个人临时脚本
+personscripts/
+
 # IDE
 .vscode/
 .idea/
